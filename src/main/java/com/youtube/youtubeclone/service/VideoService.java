@@ -1,8 +1,8 @@
 package com.youtube.youtubeclone.service;
 
-import com.youtubebackend.youtubebackend.dto.VideoDto;
-import com.youtubebackend.youtubebackend.entity.Video;
-import com.youtubebackend.youtubebackend.repository.VideoRepository;
+import com.youtube.youtubeclone.dto.VideoDto;
+import com.youtube.youtubeclone.entity.Video;
+import com.youtube.youtubeclone.repository.VideoRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
